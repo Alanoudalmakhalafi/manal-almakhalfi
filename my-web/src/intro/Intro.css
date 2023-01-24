@@ -22,9 +22,7 @@
 }
 
 .name>:nth-child(2){
-    /* color:var(--orange);
-    font-weight: bold;
-    font-size: 2rem; */
+   
         font-weight: bold;
         font-size: 1rem;
         color: #AF979A;

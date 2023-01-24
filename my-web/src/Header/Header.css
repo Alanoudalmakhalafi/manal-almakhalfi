@@ -3,7 +3,6 @@
     width: 75vw;
     display: flex;
     justify-content: space-between;
- /* border: solid red; */
     
 }
 
@@ -81,14 +80,6 @@ ul{
 
  }
 
-    /* mobile */
-    /* @media only screen 
-    and (device-width: 375px) 
-    and (device-height: 812px) 
-    and (-webkit-device-pixel-ratio: 3) {
-        
-
-     } */
 
      @media only screen 
     and (device-width: 390px) 

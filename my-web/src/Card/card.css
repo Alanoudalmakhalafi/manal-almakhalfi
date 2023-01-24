@@ -38,14 +38,12 @@
 
    }
 
-   /* mobile */
    
    @media screen and (max-width:767px) {
     *{
       font-weight: lighter;
   }
     .Card{
-    /* visibility: hidden; */
       padding-top: 1px;
       padding-left: 1px;
       width: 200px;

@@ -1,5 +1,4 @@
 .services{
-    /* padding: 0rem 3rem 0rem 3rem; */
     display: flex;
     height: 80vh;
     justify-content: space-between;
@@ -68,7 +67,6 @@
 @media screen and (min-width:768px)and (max-width:1023px){
  
     .services{
-        /* padding: 0rem 3rem 0rem 3rem; */
         display: flex;
         height: 70vh;
         justify-content: space-between;
@@ -108,7 +106,6 @@
 
 }
 
-/* mobail */
 
 @media screen and (max-width:767px) {
 
@@ -133,10 +130,8 @@
     }
 
     .services{
-        /* padding: 0rem 3rem 0rem 3rem; */
-        /* display: flex; */
+      
         height: 500px;
-        /* bottom: 100%; */
        
     }
 

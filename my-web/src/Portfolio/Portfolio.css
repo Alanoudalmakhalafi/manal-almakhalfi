@@ -6,9 +6,7 @@
     height: 70vh;
     
   }
-  /* heading */
   .Portfolio span:nth-of-type(1) {
-    /* color: var(--black); */
     color: #503D3F;
     font-size: 2rem;
     font-weight:bold ;
@@ -44,7 +42,6 @@
   
     }
 
-    /* mobail */
     
     @media screen and (max-width:767px) {
       
@@ -66,15 +63,11 @@
         width: 150px;
         margin-bottom: 22px;
 
-        /* display: flex;
-        flex-direction: column; */
+      
 
       }
 
-      /* .Portfolio .swiper{
-        display: flex;
-        flex-direction: column;
-    } */
+      
       
 
 
